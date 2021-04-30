@@ -15,7 +15,7 @@ namespace Clase4WF
     {
         Form2 newMDIChild;
         Form3 newMDIChild3;
-        public Form1()
+        public Form1() 
         {
             InitializeComponent();
             //newMDIChild = new Form2(new string[1]);
